@@ -1,4 +1,4 @@
-
+#Chrispin Nguru Maina SCT211-0006/2022
 num_1 =int(input("Enter first number :"))
 num_2 =int(input("Enter second number :"))
 operator =input("Enter your operator of choice :")
