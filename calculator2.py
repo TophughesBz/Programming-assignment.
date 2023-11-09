@@ -1,3 +1,6 @@
+//Maina Chrispin Nguru
+//SCT211-0006/2022
+
 class Calculator:
     def calculate(self, num1,operator,num2):
         if operator == '+':
